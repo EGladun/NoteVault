@@ -6,6 +6,7 @@
       {
         "id": "df46f6b9c20de011",
         "type": "tabs",
+        "dimension": 52.707581227436826,
         "children": [
           {
             "id": "06a02ca0e063606c",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Notes/Добро пожаловать.md",
                 "mode": "source",
                 "source": false
               },
@@ -26,6 +27,7 @@
       {
         "id": "f99adf6319df73c6",
         "type": "tabs",
+        "dimension": 47.292418772563174,
         "children": [
           {
             "id": "9a18dc5232491aec",
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Notes/Добро пожаловать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Notes/Добро пожаловать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Notes/Добро пожаловать.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,8 +186,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "06a02ca0e063606c",
+  "active": "13ac0458240bd549",
   "lastOpenFiles": [
-    "Добро пожаловать.md"
+    "TestNote.md",
+    "Templates",
+    "Cache",
+    "Notes",
+    "Notes/Добро пожаловать.md"
   ]
 }
