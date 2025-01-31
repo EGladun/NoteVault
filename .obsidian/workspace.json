@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Добро пожаловать.md",
+                "file": "Templates/Base Note Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Добро пожаловать"
+              "title": "Base Note Template"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Добро пожаловать.md",
+                "file": "Templates/Base Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Добро пожаловать"
+              "title": "Обратные ссылки для Base Note Template"
             }
           },
           {
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Добро пожаловать.md",
+                "file": "Templates/Base Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Добро пожаловать"
+              "title": "Исходящие ссылки из Base Note Template"
             }
           },
           {
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Добро пожаловать.md",
+                "file": "Templates/Base Note Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Добро пожаловать"
+              "title": "Структура Base Note Template"
             }
           }
         ]
@@ -186,12 +186,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "13ac0458240bd549",
+  "active": "06a02ca0e063606c",
   "lastOpenFiles": [
+    "Notes/GCD.md",
+    "Templates/Base Note Template.md",
+    "Notes/Добро пожаловать.md",
+    "Cache/Pasted image 20250131231312.png",
     "TestNote.md",
     "Templates",
     "Cache",
-    "Notes",
-    "Notes/Добро пожаловать.md"
+    "Notes"
   ]
 }
